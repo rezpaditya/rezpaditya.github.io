@@ -1,0 +1,35 @@
+---
+layout: post
+title: Membuat Matriks Pada Java [ input random ]
+date: '2011-11-19T00:42:00.004+07:00'
+author: Rezpa Aditya
+tags:
+- Education
+modified_time: '2011-11-19T17:24:41.247+07:00'
+blogger_id: tag:blogger.com,1999:blog-5916011166414852301.post-7229505605726612116
+blogger_orig_url: https://www.respa.id/2011/11/membuat-matriks-dengan-input-random.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://jagan21.files.wordpress.com/2011/07/java-copi2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://jagan21.files.wordpress.com/2011/07/java-copi2.jpg" /></a></div><div style="text-align: justify;"><br />
+</div><div style="text-align: justify;">halo teman - teman . kali ini saya mencoba untuk sharing mengenai programming java. selagi saya bisa dan masih ingat jadi lebih baik berbagi untuk teman &nbsp;- teman semua. kebetulan di kampus lagi heboh - hebohnya tugas mengenai programming java, sekarang saya sedang belajar array yang merupakan dasar dari pembentukan matriks. matriks dalam java merupakan array 2 dimensi karena memiliki baris dan kolom.&nbsp;</div><div style="text-align: justify;"></div><a name='more'></a><br />
+<br />
+<div style="text-align: justify;">kali ini kita akan belajar bagaimana caranya membuat matriks namun elemen - elemen matriksnya diinputkan secara random. coba kita lihat kode java di bawah ini.</div><br />
+<blockquote><span class="Apple-style-span" style="color: blue;">import</span><span class="Apple-style-span" style="color: purple;"> java.util.Random; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br />
+<span class="Apple-style-span" style="color: blue;">public class</span><span class="Apple-style-span" style="color: purple;"> matrix {<br />
+&nbsp; &nbsp; </span><span class="Apple-style-span" style="color: blue;">public static void</span><span class="Apple-style-span" style="color: purple;"> main (String [] args){<br />
+&nbsp; &nbsp; &nbsp; &nbsp; Random rdm = new Random ();<br />
+&nbsp; &nbsp; &nbsp; &nbsp;</span><span class="Apple-style-span" style="color: blue;"> int</span><span class="Apple-style-span" style="color: purple;"> nilaiRandom;<br />
+&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="Apple-style-span" style="color: blue;">int</span><span class="Apple-style-span" style="color: purple;"> matrix [][] = </span><span class="Apple-style-span" style="color: blue;">new int</span><span class="Apple-style-span" style="color: purple;"> [5][5]; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="Apple-style-span" style="color: #666666;">&nbsp;</span><span class="Apple-style-span" style="color: #999999;">//ukuran matrix&nbsp;</span>&nbsp;</blockquote><blockquote><span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; </span><span class="Apple-style-span" style="color: #999999;">//input matrix&nbsp;</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; System.</span><span class="Apple-style-span" style="color: lime;">out</span><span class="Apple-style-span" style="color: purple;">.println ("Matrix A\n");</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; for (</span><span class="Apple-style-span" style="color: blue;">int</span><span class="Apple-style-span" style="color: purple;"> i=0;i&lt;5;i++){</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; for (</span><span class="Apple-style-span" style="color: blue;">int</span><span class="Apple-style-span" style="color: purple;"> j=0;j&lt;5;j++){</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nilaiRandom = rdm.nextInt (5); &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class="Apple-style-span" style="color: #999999;">//( ) masukan angka bebas</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; matrix [i][j]=nilaiRandom;</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; System.</span><span class="Apple-style-span" style="color: lime;">out</span><span class="Apple-style-span" style="color: purple;">.print (" "+matrix [i][j] );</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; System.</span><span class="Apple-style-span" style="color: lime;">out</span><span class="Apple-style-span" style="color: purple;">.println ();</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; &nbsp; &nbsp; }</span><br />
+<span class="Apple-style-span" style="color: purple;">&nbsp; &nbsp; }</span><br />
+<span class="Apple-style-span" style="color: purple;">}</span></blockquote><br />
+<div style="text-align: justify;">coba kita run kode di atas, nah hasilnya akan terbentuk matriks 5 x 5 dengan elemen - elemen yang berubah - ubah setiap kali kita run. ini merupakan penggunaan perintah random yang terdapat dalam java. setelah kita bisa membuat matriksnya, cobalah untuk membuat koding java untuk penjumlahan, pengurangan, perkalian dan pembagian matriks :):)&nbsp;</div><div style="text-align: justify;"><br />
+</div><div style="text-align: justify;">sorry kalau kurang jelas atau ada kesalahan :D untuk postingan selanjutnya, saya coba untuk sharing tentang cara menjumlahkan elemen baris atau kolom suatu matriks m x n . dimohon supportnya :) jika ada pertanyaan silahkan dikomen aja.</div>
