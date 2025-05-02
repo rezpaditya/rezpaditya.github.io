@@ -15,10 +15,10 @@ title: "respa.id"
 description: "A place where I share my stories, experience, and photography work."
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "/rezpaditya.github.io"
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://rezpaditya.github.io"
+url: ""
 
 # Favicon
 favicon: images/favicon.png
@@ -32,12 +32,6 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
-  - text: Tags
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
