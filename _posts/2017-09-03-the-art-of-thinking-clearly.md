@@ -1,0 +1,16 @@
+--- 
+layout: post 
+title: The Art of Thinking Clearly 
+date: '2017-09-03T17:48:00.000+07:00' 
+author: Rezpa Aditya 
+tags: - Traveling - My book modified\_time: '2017-09-03T17:51:33.544+07:00' 
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNAopv\_KH2HAWLoM-LmhUZ1ag4lMggbL\_PDoSDkygW8msXzL53ALgLJV4YJjrJUs-KFNwowSxFwjzLfCCBAiknU9b2Bo6uIbIoqBU4O0sqgyn\_nX5WA6kqmaJQeDhhLwddczpK82K4L9I/s72-c/2017-08-31+06.11.48+1.jpg 
+blogger_id: tag:blogger.com,1999:blog-5916011166414852301.post-2928445655758504194 
+blogger_orig_url: https://www.respa.id/2017/09/the-art-of-thinking-clearly.html 
+--- 
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNAopv_KH2HAWLoM-LmhUZ1ag4lMggbL_PDoSDkygW8msXzL53ALgLJV4YJjrJUs-KFNwowSxFwjzLfCCBAiknU9b2Bo6uIbIoqBU4O0sqgyn_nX5WA6kqmaJQeDhhLwddczpK82K4L9I/s640/2017-08-31+06.11.48+1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNAopv_KH2HAWLoM-LmhUZ1ag4lMggbL_PDoSDkygW8msXzL53ALgLJV4YJjrJUs-KFNwowSxFwjzLfCCBAiknU9b2Bo6uIbIoqBU4O0sqgyn_nX5WA6kqmaJQeDhhLwddczpK82K4L9I/s1600/2017-08-31+06.11.48+1.jpg) 
+
+Ketika membaca bab per bab dari buku ini, sangat muncul keinginan untuk membagikan isi yang disampaikan.  []() Cara penyampaiannya case by case tentang paradigma pemikiran yang kebanyakan orang terjebak di dalamnya. Jadi ketika kita membaca, seakan berkata dalam hati "bener juga". Atau "iya, ini yg saya alami sekarang" dan mungkin banyak lagi kata dalam hati yang akan muncul. Berikut kutipannya... 
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlIqraLs648_PgxhddtdUfUDqDqCJDJ_7y9Hgb2RXVgq4PGSx-rGhUdvjo6rgd8HaoZOp0FtqNhFNmlCdLYC8x8BD1HJE5SB_-feSHVrHKZDxsVvmYl5frdn8GHiuTaEaX-1MTqNCJQXI/s640/2017-08-31+06.02.38+1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlIqraLs648_PgxhddtdUfUDqDqCJDJ_7y9Hgb2RXVgq4PGSx-rGhUdvjo6rgd8HaoZOp0FtqNhFNmlCdLYC8x8BD1HJE5SB_-feSHVrHKZDxsVvmYl5frdn8GHiuTaEaX-1MTqNCJQXI/s1600/2017-08-31+06.02.38+1.jpg) Setelah beres baca, mungkin akan dibuat review dari buku ini.

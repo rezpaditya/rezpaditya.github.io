@@ -1,0 +1,13 @@
+--- 
+layout: post 
+title: Be Steadfast in Patient 
+date: '2017-05-13T07:31:00.002+07:00' 
+author: Rezpa Aditya 
+tags: - My book 
+modified_time: '2017-05-13T07:32:45.664+07:00' 
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvAosOy1r89\_9HGc1Sz0Nsv64EmA7Ce7FavMqZ83SgOWZkVvsJjyT0-AnmcaNWKjMql5Vt22Gm2-eRT\_jgchIh72QMRGv-YLEN4HyA732UMYzGXF6JaK9w36C2wQgQ6oBm846eb2J7LRU/s72-c/2017-04-14+02.45.06+1.jpg 
+blogger_id: tag:blogger.com,1999:blog-5916011166414852301.post-5724821113693672227 
+blogger_orig_url: https://www.respa.id/2017/05/be-stedfast-in-patient.html 
+---
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvAosOy1r89_9HGc1Sz0Nsv64EmA7Ce7FavMqZ83SgOWZkVvsJjyT0-AnmcaNWKjMql5Vt22Gm2-eRT_jgchIh72QMRGv-YLEN4HyA732UMYzGXF6JaK9w36C2wQgQ6oBm846eb2J7LRU/s640/2017-04-14+02.45.06+1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvAosOy1r89_9HGc1Sz0Nsv64EmA7Ce7FavMqZ83SgOWZkVvsJjyT0-AnmcaNWKjMql5Vt22Gm2-eRT_jgchIh72QMRGv-YLEN4HyA732UMYzGXF6JaK9w36C2wQgQ6oBm846eb2J7LRU/s1600/2017-04-14+02.45.06+1.jpg) Berjuang, perjuangan selalu membutuhkan pengorbanan begitu pepatah mengatakan. Namun jangan lupa ketika kau berjuang, kesabaran adalah sebenarnya yang paling kau butuhkan. Tanpa kesabaran, kau tak akan mampu bertahan. Dan ingat, Tuhan tidak akan menyianyiakan kebaikan yang dikerjakan oleh orang - orang yang bersabar. Salam,

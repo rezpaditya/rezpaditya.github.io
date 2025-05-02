@@ -1,0 +1,13 @@
+--- 
+layout: post 
+title: Sunday Morning 
+date: '2017-11-20T21:43:00.002+07:00' 
+author: Rezpa Aditya 
+tags: - Holiday - Traveling 
+modified_time: '2020-06-11T13:28:28.454+07:00' 
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrOUoG4BnykXgX-Q2qylDuQFjro-Gi18WZE5Vq8yC0PHSi6tMYXCjWbPmAobIE5boErArW40cpvbj5pahoNZmTlaeZRe4i6Uvj4Ptg62-5Q4sSzzXRKrdAKKAwXnstSaSvGmAxkYeurw/s72-c/2017-10-29+07.14.15+1.jpg 
+blogger_id: tag:blogger.com,1999:blog-5916011166414852301.post-2357104560999201189 
+blogger_orig_url: https://www.respa.id/2017/11/sunday-morning.html 
+--- 
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrOUoG4BnykXgX-Q2qylDuQFjro-Gi18WZE5Vq8yC0PHSi6tMYXCjWbPmAobIE5boErArW40cpvbj5pahoNZmTlaeZRe4i6Uvj4Ptg62-5Q4sSzzXRKrdAKKAwXnstSaSvGmAxkYeurw/s640/2017-10-29+07.14.15+1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrOUoG4BnykXgX-Q2qylDuQFjro-Gi18WZE5Vq8yC0PHSi6tMYXCjWbPmAobIE5boErArW40cpvbj5pahoNZmTlaeZRe4i6Uvj4Ptg62-5Q4sSzzXRKrdAKKAwXnstSaSvGmAxkYeurw/s1600/2017-10-29+07.14.15+1.jpg) River Valley, Singapore. Walk and feel the morning...
